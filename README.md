@@ -58,6 +58,9 @@ CREATE TABLE `banking` (
 3-Import the project on the IDE and run it on Apache Tomcat server.
 4- Open registration\WebContent\WEB-INF\views\front.html
 
+Welcome Page:
+![](ssimg/1.png)
+
 
 •	CONCLUSION & SCOPE FOR FUTRURE DEVLOPMENT:
 
