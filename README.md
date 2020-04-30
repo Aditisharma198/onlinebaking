@@ -59,7 +59,7 @@ CREATE TABLE `banking` (
 4- Open registration\WebContent\WEB-INF\views\front.html
 
 Welcome Page:
-![](ssimg/1.png)
+![](ssimg/1.PNG)
 
 
 •	CONCLUSION & SCOPE FOR FUTRURE DEVLOPMENT:
